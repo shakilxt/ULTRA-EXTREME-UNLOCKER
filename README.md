@@ -1,2 +1,2 @@
 # PUBG-120-FPS
-A magisk module for android to unlock max FPS in PUBG Mobile or any other games.
+This Magisk module unlocks the maximum FPS (frames per second) setting in PUBG Mobile and potentially other games on your Android device.
