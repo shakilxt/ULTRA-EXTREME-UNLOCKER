@@ -1,16 +1,31 @@
 # PUBG-120-FPS
 This Magisk module unlocks the maximum FPS setting in PUBG Mobile and potentially other games on your Android device.
 
-Installation:
+# Installation:
 
-Prerequisites:
-Rooted Android device
-Magisk installed
-Download:
-Download the latest release of the PUBG-120-FPS Magisk module from the [Releases] section.
-Install:
-Open the Magisk app.
-Go to the "Modules" section.
-Tap the "+" button and select the downloaded module zip file.
-Tap "Install" and wait for the installation to complete.
-Reboot your device.
+**Requirements:**
+
+1. Rooted Android device
+2. Magisk installed
+
+**Download:**
+
+1. Download the latest release of the **Releases** section.
+
+**Install:**
+
+1. Open the Magisk app.
+
+2. Go to the "Modules" section.
+
+3. Tap the "Install form storage" button and select the downloaded module zip file.
+
+4. Tap "Install" and wait for the installation to complete.
+
+5. Reboot your device.
+
+6. 👊 Enjoy!
+
+**Disclaimer:**
+
+1. Use at your own risk. Unlockig high refresh rate may cause unexpected issues or damage to your battery.
