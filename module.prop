@@ -1,6 +1,6 @@
-id=@pubg120x
-name=PUBG FPS UNLOCKER || All FPS UNLOCKER
+id=@pubg120FPS
+name=PUBG-120-FPS || All FPS UNLOCKER
 version=0.0.1
 versionCode=001
-author=@shakil_dev_x
-description=Unlock Max Fps In BGMI, PUBG and All Other Games.
+author=shakilxt
+description=This Magisk module unlocks the maximum FPS setting in PUBG Mobile and potentially other games on your Android device.
