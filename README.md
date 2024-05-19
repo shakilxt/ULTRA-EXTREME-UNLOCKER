@@ -36,4 +36,4 @@ This module will set your device model to 24031PN0DC (Xiaomi 14 Ultra - 24030PN6
 1. Use at your own risk. Unlockig high refresh rate may cause unexpected issues or damage to your battery.
 
 
-**Thank You !🫵**
+Join Our [Telegram](https://t.me/pubg120x) for Live Updates ! **Thank You !**
