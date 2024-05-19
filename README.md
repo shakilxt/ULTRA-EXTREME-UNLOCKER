@@ -15,7 +15,7 @@ This module will set your device model to 24031PN0DC (Xiaomi 14 Ultra - 24030PN6
 
 **Download:**
 
-1. Download the latest release of the **Releases** section.
+1. Download the latest release of the **Releases** section by tapping the **"⬇️Download Now"** button.
 
 **Install:**
 
