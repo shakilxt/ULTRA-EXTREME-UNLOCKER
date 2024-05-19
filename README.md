@@ -1,5 +1,5 @@
 # ULTRA-EXTREME-UNLOCKER
-This Magisk module unlocks the maximum FPS setting in PUBG Mobile/BGMI and all other games on your Android device.
+This Magisk module unlocks the maximum FPS setting in PUBG Mobile/BGMI and all other supported games on your Android device.
 
 # Whats Inside:
 This module will set your device model to 24031PN0DC (Xiaomi 14 Ultra)
