@@ -1,6 +1,9 @@
 # PUBG-120-FPS
 This Magisk module unlocks the maximum FPS setting in PUBG Mobile and potentially other games on your Android device.
 
+# Whats Inside:
+This module will set your device model to 24031PN0DC (Xiaomi 14 Ultra)
+
 # Installation:
 
 **Requirements:**
@@ -29,3 +32,6 @@ This Magisk module unlocks the maximum FPS setting in PUBG Mobile and potentiall
 **Disclaimer:**
 
 1. Use at your own risk. Unlockig high refresh rate may cause unexpected issues or damage to your battery.
+
+
+Thank You !🫵
