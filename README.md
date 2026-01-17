@@ -59,23 +59,6 @@ This module injects high-performance properties into your system build, tricking
 
 ---
 
-## 📸 VISUAL CONFIRMATION
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>BEFORE</b></td>
-      <td align="center"><b>AFTER</b></td>
-    </tr>
-    <tr>
-      <td>Locked at 60 FPS<br>Low Graphics</td>
-      <td><b>UNLOCKED 90/120 FPS<br>Extreme Graphics</b></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## ⚠️ DISCLAIMER & LIABILITY
 
 > [!IMPORTANT]
