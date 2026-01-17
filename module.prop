@@ -1,6 +1,6 @@
 id=@ultra_extreme_unlocker
 name=ULTRA EXTREME UNLOCKER || PUBG/BGMI + ALL OTHER SUPPORTED GAMES ||
-version=0.0.1
-versionCode=001
+version=0.0.2
+versionCode=002
 author=shakilxt
-description=This Magisk module unlocks the maximum FPS setting in PUBG Mobile and potentially other games on your Android device.
+description=This Magisk module unlocks the maximum FPS setting by spoofing your device as a Redmagic 10 Pro.
