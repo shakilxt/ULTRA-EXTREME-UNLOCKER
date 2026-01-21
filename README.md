@@ -22,14 +22,6 @@ This Magisk module shatters the limits of your device, spoofing the hardware ide
 
 ---
 
-## ⚡ SYSTEM OVERRIDE INITIATED
-
-This module injects high-performance properties into your system build, tricking game engines into thinking you are using the latest gaming hardware.
-
-| **TARGET DEVICE** | **MODEL ID** | **PERFORMANCE** |
-| :---: | :---: | :---: |
-| <img src="https://img.icons8.com/fluency/48/000000/processor.png" width="30"/> **Redmagic 10 Pro** | `NX789J` | **EXTREME / 120 FPS** |
-
 ### 🚀 FEATURES
 * ✅ **Unlocks 90 / 120 FPS** (Game Dependent)
 * ✅ **Unlocks HDR / UHD Graphics**
@@ -41,7 +33,6 @@ This module injects high-performance properties into your system build, tricking
 
 ## 🛠️ INSTALLATION PROTOCOL
 
-> [!WARNING]
 > **REQUIREMENTS:** A rooted Android device with Magisk v20.4+ installed.
 
 <div align="center">
