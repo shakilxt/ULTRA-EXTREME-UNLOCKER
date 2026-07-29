@@ -13,7 +13,7 @@
 
 <p>
 <b>Stop playing with lag. Start playing to win.</b><br>
-This Magisk module shatters the limits of your device, spoofing the hardware identity to the <b>Redmagic 10 Pro</b> (NX789J) to unlock maximum graphical settings and frame rates in PUBG Mobile, BGMI, CODM, and more.
+This Magisk module shatters the limits of your device, spoofing the hardware identity to the <b>Redmagic 10 Pro</b> to unlock maximum graphical settings and frame rates in PUBG Mobile, BGMI, CODM, and more.
 </p>
 
 <img src="https://github.com/shakilxt/ULTRA-EXTREME-UNLOCKER/blob/main/Screenshot.jpg?raw=true" width="80%" style="border-radius: 10px; border: 2px solid #d32f2f;">
@@ -31,22 +31,38 @@ This Magisk module shatters the limits of your device, spoofing the hardware ide
 
 ---
 
-## 🛠️ INSTALLATION PROTOCOL
+## 📦 Requirements
 
-> **REQUIREMENTS:** A rooted Android device with Magisk v20.4+ installed.
+Before installing, make sure you have:
 
-<div align="center">
+* A rooted Android device
+* **Magisk** or **KernelSU**
+* Basic knowledge of installing root modules
 
-**FOLLOW THESE STEPS TO ENGAGE**
+---
 
-</div>
+## 🚀 Installation
 
-1.  **DOWNLOAD** the latest zip file from the [Releases Section](#).
-2.  **LAUNCH** the **Magisk App** on your device.
-3.  **NAVIGATE** to the `Modules` tab (Puzzle Piece Icon).
-4.  **SELECT** `Install from Storage` and locate the `ULTRA-EXTREME-UNLOCKER.zip`.
-5.  **FLASH** the file and wait for the process to complete.
-6.  **REBOOT** your system to apply changes.
+### Magisk
+
+1. Download the latest module from the **Releases** section.
+2. Open the **Magisk** app.
+3. Go to **Modules**.
+4. Tap **Install from storage**.
+5. Select `ULTRA-EXTREME-UNLOCKER.zip`.
+6. Wait for the installation to finish.
+7. Reboot your device.
+
+### KernelSU
+
+1. Download the latest module from the **Releases** section.
+2. Open the **KernelSU** app.
+3. Go to **Modules**.
+4. Tap **Install** and select `ULTRA-EXTREME-UNLOCKER.zip`.
+5. Wait for the installation to complete.
+6. Reboot your device.
+
+After restarting, launch your game and check the available graphics and FPS options.
 
 ---
 
