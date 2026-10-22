@@ -66,6 +66,10 @@ After restarting, launch your game and check the available graphics and FPS opti
 
 ---
 
+Join Our [Telegram](https://t.me/pubg120x) for Live Updates ! **Thank You !**
+
+---
+
 ## ⚠️ DISCLAIMER & LIABILITY
 
 > [!IMPORTANT]
