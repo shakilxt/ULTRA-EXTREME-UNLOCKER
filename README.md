@@ -74,7 +74,13 @@ Join Our [Telegram](https://t.me/pubg120x) for Live Updates ! **Thank You !**
 
 > [!IMPORTANT]
 > **USE AT YOUR OWN RISK.**
-> Unlocking higher refresh rates places more load on your GPU and Battery. While this module merely changes the device identifier (Safe Method), the author (**shakilxt**) is not responsible for thermonuclear war, alarm apps failing, or your phone turning into a toaster.
+> This module is provided "AS IS", without any guarantees. Higher FPS and graphics settings may increase heat, battery consumption, and hardware stress. Modifying device properties may violate game policies and result in account bans. Compatibility is not guaranteed, and installation may cause system instability, data loss, or device damage.
+
+The author (shakilxt) is not responsible for any damages, bans, or issues resulting from its use.
+
+This project is not affiliated with or endorsed by any device manufacturer or game publisher.
+
+Install at your own discretion.
 
 <div align="center">
 
