@@ -76,11 +76,11 @@ Join Our [Telegram](https://t.me/pubg120x) for Live Updates ! **Thank You !**
 > **USE AT YOUR OWN RISK.**
 > This module is provided "AS IS", without any guarantees. Higher FPS and graphics settings may increase heat, battery consumption, and hardware stress. Modifying device properties may violate game policies and result in account bans. Compatibility is not guaranteed, and installation may cause system instability, data loss, or device damage.
 
-The author (shakilxt) is not responsible for any damages, bans, or issues resulting from its use.
+> The author (shakilxt) is not responsible for any damages, bans, or issues resulting from its use.
 
-This project is not affiliated with or endorsed by any device manufacturer or game publisher.
+> This project is not affiliated with or endorsed by any device manufacturer or game publisher.
 
-Install at your own discretion.
+> Install at your own discretion.
 
 <div align="center">
 
