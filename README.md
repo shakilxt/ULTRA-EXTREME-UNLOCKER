@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://github.com/shakilxt/ULTRA-EXTREME-UNLOCKER/releases/latest"><img src="https://img.shields.io/github/v/release/shakilxt/ULTRA-EXTREME-UNLOCKER?style=for-the-badge&color=orange&label=VERSION" alt="Latest version"></a>
-  <a href="https://github.com/shakilxt/ULTRA-EXTREME-UNLOCKER/releases"><img src="https://img.shields.io/github/downloads/shakilxt/ULTRA-EXTREME-UNLOCKER/total?style=for-the-badge&color=success&label=DOWNLOADS" alt="Total downloads"></a>
+  <a href="https://github.com/shakilxt/ULTRA-EXTREME-UNLOCKER/stargazers"><img src="https://img.shields.io/github/stars/shakilxt/ULTRA-EXTREME-UNLOCKER?style=for-the-badge&color=success&label=STARS&logo=github" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/ROOT-REQUIRED-red?style=for-the-badge&logo=android&logoColor=white" alt="Root Required">
   <img src="https://img.shields.io/badge/MAGISK%20%7C%20KERNELSU-MODULE-3ea6ff?style=for-the-badge&logo=magisk&logoColor=white" alt="Magisk and KernelSU module">
 </p>
